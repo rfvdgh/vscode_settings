@@ -1,0 +1,28 @@
+{
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "python.pythonPath": "/bin/python3",
+    "python.disableInstallationCheck": true,
+    "editor.autoClosingBrackets": "never",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "python.showStartPage": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "editor.fontSize": 16,
+    "explorer.confirmDragAndDrop": false,
+    "editor.cursorBlinking": "solid",
+    "explorer.confirmDelete": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+}
