@@ -8,7 +8,7 @@
     "workbench.iconTheme": "vscode-icons",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "One Dark Pro",
     "python.showStartPage": false,
     "vsicons.dontShowNewVersionMessage": true,
     "python.formatting.provider": "black",
@@ -25,4 +25,5 @@
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
+    "editor.parameterHints.enabled": false,
 }
